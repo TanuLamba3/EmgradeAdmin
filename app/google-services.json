@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132344021015",
+    "firebase_url": "https://emgrade-5e1cf-default-rtdb.firebaseio.com",
+    "project_id": "emgrade-5e1cf",
+    "storage_bucket": "emgrade-5e1cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132344021015:android:954b010c56c3c6640edc52",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132344021015-f2t6u7grrfkpq7pd4q3lm93393iboqsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6uy8NTP61S3zOczvqafX7Qa1DlHp3jnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132344021015-f2t6u7grrfkpq7pd4q3lm93393iboqsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

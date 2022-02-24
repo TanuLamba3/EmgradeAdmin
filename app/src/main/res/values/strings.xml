@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="tips">Tips and Tricks</string>
+    <string name="student_name"><br>Student \n</br>
+        <br>Subject Name \n</br>
+    </string>
+    <string name="tutor_name"><br>Tutor \n</br>
+        <br>Tutor Name \n</br>
+    </string>
+    <string name="student_name1"><br>Student: Name \n</br>
+        <br>Subject Name \n</br>
+    </string>
+    <string name="welcome"><br>Welcome! \n</br>
+    <br><b>Admin \n</b></br></string>
+    <string name="get_started"><br>" This is sample text. \n</br>
+    <br>This place with contain \n</br>
+        <br>text related to \n</br>
+        <br>testimonials or education \n</br>
+        <br>related motivational \n</br>
+        <br>quotes" \n</br>
+    </string>
+</resources>
